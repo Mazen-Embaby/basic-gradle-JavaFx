@@ -15,7 +15,6 @@ public class MainApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
     	application = this;
-    	System.out.println("Hello people");
         Parent root = FXMLLoader.load(getClass().getResource("mainScene.fxml"));
         System.out.println("root is " + root);
         Scene scene = new Scene(root);
