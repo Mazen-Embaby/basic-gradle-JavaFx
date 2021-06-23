@@ -2,7 +2,7 @@
 
 **Description**
 
-basic application which illustrate the designing the UI by using FXML and code.
+basic application which illustrate the UI designing by using FXML and code.
 
 
 
